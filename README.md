@@ -5,3 +5,5 @@ DELETE:/users = done <br />
 POST:/users = done <br />
 POST:/users/orders = not done <br />
 GET:/books = not done <br />
+
+Use Postman to test APIs.
