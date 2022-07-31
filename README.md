@@ -1,5 +1,5 @@
 # Bookstore-RESTful-API
-POST:/login = done
+# POST:/login = done
 GET:/users = done
 DELETE:/users = done
 POST:/users = done
