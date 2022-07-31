@@ -1,7 +1,7 @@
 # Bookstore-RESTful-API
-# POST:/login = done
-GET:/users = done
-DELETE:/users = done
-POST:/users = done
-POST:/users/orders = not done
-GET:/books = not done
+POST:/login = done <br />
+GET:/users = done <br />
+DELETE:/users = done <br />
+POST:/users = done <br />
+POST:/users/orders = not done <br />
+GET:/books = not done <br />
